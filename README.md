@@ -1,1 +1,2 @@
 # Clustering-in-Python
+The objective of this project is to explore clustering on tabular data to find groups and also anomalies. I will try different kind of clustering algorithms on same data set to show the difference in their behaviour and computation. All the coding will be done in Python using jypyter notebook. In every program accuracy of the result is not our purpose but the purpose is to deliver the concept of programming and working of algorithm. The accuracy of the algorithm can definitely be increased by changing parameters or hyper parameters of the model.
